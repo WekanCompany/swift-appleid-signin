@@ -10,9 +10,7 @@ import UIKit
 import AuthenticationServices
 
 class LoginViewController: UIViewController {
-    
     //MARK: - IBOutlets
-
     @IBOutlet weak var loginStackView: UIStackView!
     
     // MARK: - ViewController life cycle
